@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cSEM"]
+	path = cSEM
+	url = https://github.com/m-e-rademaker/csem
+	shallow = true
+	registered = true
